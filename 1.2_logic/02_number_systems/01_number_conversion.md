@@ -1,11 +1,15 @@
 ## Conversion from One Base to Another
 1. **Convert the decimal number 156 to:**
    - Binary
+   $100111000_2$
    - Octal
+   234
    - Hexadecimal
+   9C
 
 2. **Convert the binary number 101101 to:**
    - Decimal
+
    - Octal
    - Hexadecimal
 
